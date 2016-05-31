@@ -1,0 +1,61 @@
+
+
+
+
+
+
+body{
+
+	font-family: 'AcidDreamer';
+	background-image: url("image/raindrop.jpg");
+	background-color: transparent;
+	background-position: 0 0 ;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	color: #556b2f;
+    
+
+}
+
+h1{ 
+	color:#ffe4b5;
+
+
+}
+a:link
+{   font-size: 20px;
+	color:#0000cd 	 ;
+	text-decoration: none;
+}
+a:visited
+{
+	color: blue;text-decoration: none;
+}
+a:hover
+{
+	color: #8b8378;text-decoration: underline;
+}
+a:active
+{
+	color: red;text-decoration: none;
+}
+
+p
+{   font-size: 16px;
+	color:#556b2f;
+
+}
+
+h3{
+   font-size: 30px;
+   color:  #556b2f;
+
+}
+#descrip{
+	margin: 5px;
+	padding: 5px;
+
+}
+div#descrip:hover{
+	font-weight: 10px;
+}
